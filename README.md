@@ -1,10 +1,10 @@
 #Bitwarden Backup Script
 
-##**Requirements**
+## **Requirements**
 
 [Download and Install BW CLI](https://bitwarden.com/help/cli/#download-and-install)
 
-##**Instructions**
+## **Instructions**
 1. Open the script using your editor of choice and change the following variables:
     - $Env:BW_CLIENTID #[Get your personal API key](https://bitwarden.com/help/personal-api-key/)
     - $Env:BW_CLIENTSECRET #See above
